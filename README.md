@@ -1,0 +1,2 @@
+# Embedded-Systems-Engineer-Intern-task-week2-task
+Week 2 focuses on firmware development using C programming. This project simulates an ESP32-based Smart Environment Monitoring System with timer operations, sensor data reading, UART communication, motion detection, and LED/buzzer alerts. It includes commented source code, compilation instructions, and basic testing to demonstrate embedded firmware
